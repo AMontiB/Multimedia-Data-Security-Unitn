@@ -1,8 +1,10 @@
-# MDS_2022_23
-The repo collecting all the laboratory material for the course Multimedia Data Security @ University of Trento of Prof. Giulia Boato.
+# Multimedia Data Security 2022/23 Unitn
+The repo collecting all the laboratory material for the course Multimedia Data Security @ University of Trento 
 
-Teaching Assistant: Andrea Montibeller
-mail: andrea.montibeller[at]unitn.it
+**Professor:** Giulia Boato 
+
+**Teaching Assistant:** Andrea Montibeller \
+mail: *andrea.montibeller[at]unitn.it*
 
 ## LABS:
 
