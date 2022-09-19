@@ -15,5 +15,12 @@ mail: *andrea.montibeller[at]unitn.it*
 - [LSB Colab](https://drive.google.com/file/d/1Kx9k32m1hVwisHlntZYS1loGp9GbLAza/view?usp=sharing) 
 - [LSB Colab Solutions]() 
 - [VOD Class]() 
-<!---[VOD Class]()--->
+<!---[YouTube Video Resume]()--->
+
+2. Spread Spectrum (coming soon) 
+- [Slides ([at]unitn Only)]() 
+- [Spread Spectrum Colab]() 
+- [Spread Spectrum Colab Solutions]() 
+- [VOD Class]() 
+<!---[YouTube Video Resume]()--->
 
