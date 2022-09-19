@@ -9,7 +9,7 @@ mail: *andrea.montibeller[at]unitn.it*
 ## LABS:
 
 1. Image and Signal Processing + Least Significant Bit (LSB) watermarking 
-- [Slides ([at]unitn Only)](https://drive.google.com/file/d/1O5LHAnTlgqFEKaAmd6xcvGccwAz3pQph/view?usp=sharing) 
+- [Slides ([at]unitn Only)](https://drive.google.com/file/d/1qT_QM2nx6quwzqUY5TTeHKTW94xz1kcZ/view?usp=sharing) 
 - [Image Processing Colab](https://drive.google.com/file/d/1EKHJZQxmu1tgkos8ueDf1X-sXJRUdWaE/view?usp=sharing) 
 - [Signal Processing Colab](https://drive.google.com/file/d/1Yq4XmY7fjfvTlU9FdWYO14swL0bUjESH/view?usp=sharing) 
 - [LSB Colab](https://drive.google.com/file/d/1Kx9k32m1hVwisHlntZYS1loGp9GbLAza/view?usp=sharing) 
