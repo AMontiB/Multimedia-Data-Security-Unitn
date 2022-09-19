@@ -6,6 +6,11 @@ The repo collecting all the laboratory material for the course Multimedia Data S
 **Teaching Assistant:** Andrea Montibeller \
 mail: *andrea.montibeller[at]unitn.it*
 
+## PYCHARM GUIDE AND VIRTUAL ENVIRONMENT FOR THE CHALLENGE
+
+- [Check the video ([at]unitn Only)](https://drive.google.com/file/d/1ADs9nbkmzwbzFiUh772tiVFS80jpc-a-/view?usp=sharing)
+- [Download virtual env and additional material ([at]unitn Only](https://drive.google.com/file/d/1ZfJGecDzrW_LfjzxB-guGl8Q6BH8vvSj/view?usp=sharing)
+
 ## LABS:
 
 1. Image and Signal Processing + Least Significant Bit (LSB) watermarking 
