@@ -18,8 +18,8 @@ mail: *andrea.montibeller[at]unitn.it*
 - [Image Processing Colab](https://drive.google.com/file/d/1EKHJZQxmu1tgkos8ueDf1X-sXJRUdWaE/view?usp=sharing) 
 - [Signal Processing Colab](https://drive.google.com/file/d/1Yq4XmY7fjfvTlU9FdWYO14swL0bUjESH/view?usp=sharing) 
 - [LSB Colab](https://drive.google.com/file/d/1Kx9k32m1hVwisHlntZYS1loGp9GbLAza/view?usp=sharing) 
-- [LSB Colab Solutions]() 
-- [VOD Class]() 
+- [LSB Colab Solutions](https://drive.google.com/file/d/1eIrPuLPGcLidc7Y6VI-9-MZgk5ydNEuK/view?usp=sharing) 
+- [VOD Class](https://drive.google.com/file/d/1GPIkS7A0zf8LlSLblHz48u-hnDknVxK-/view?usp=sharing) 
 <!---[YouTube Video Resume]()--->
 
 1.5. PSNR and WPSNR
