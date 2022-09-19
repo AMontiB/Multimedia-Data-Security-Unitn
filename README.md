@@ -22,11 +22,11 @@ mail: *andrea.montibeller[at]unitn.it*
 - [VOD Class](https://drive.google.com/file/d/1GPIkS7A0zf8LlSLblHz48u-hnDknVxK-/view?usp=sharing) 
 <!---[YouTube Video Resume]()--->
 
-1.5. PSNR and WPSNR
+2. PSNR and WPSNR
 - [VOD Class ([at]unitn Only)](https://drive.google.com/file/d/11UrowVwREz_bJhoPvkHb_DVY7pu47IBy/view?usp=sharing) 
 
 
-2. Spread Spectrum (coming soon) 
+3. Spread Spectrum (coming soon) 
 - [Slides ([at]unitn Only)]() 
 - [Spread Spectrum Colab]() 
 - [Spread Spectrum Colab Solutions]() 
