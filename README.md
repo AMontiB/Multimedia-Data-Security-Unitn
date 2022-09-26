@@ -27,9 +27,9 @@ mail: *andrea.montibeller[at]unitn.it*
 
 
 3. Spread Spectrum (coming soon) 
-- [Slides ([at]unitn Only)]() 
-- [Spread Spectrum Colab]() 
-- [Spread Spectrum Colab Solutions]() 
+<!---
+- [Slides ([at]unitn Only)](https://docs.google.com/presentation/d/1r-w3e0BdvOVcHggXO84Q6V_ESbuZUeJVV-Uphx4BXCo/edit#slide=id.g1397761b547_0_241) 
+- [Spread Spectrum Colab](https://drive.google.com/file/d/1d8yDoisy2gw7WslN2MOf26A1w78Fld4U/view?usp=sharing) 
 - [VOD Class]() 
-<!---[YouTube Video Resume]()--->
+[YouTube Video Resume]()--->
 
