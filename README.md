@@ -33,9 +33,12 @@ mail: *andrea.montibeller[at]unitn.it*
 <!---[YouTube Video Resume]()--->
 
 4. Receptive Operative Characteristic (ROC) Curve
-- [ROC Colab]<!---(https://colab.research.google.com/drive/1r75Mg56ePs1bZpZAMVNQztDKfaLrT14Z?usp=sharing)--->
+- [ROC Colab]() 
+<!---(https://colab.research.google.com/drive/1r75Mg56ePs1bZpZAMVNQztDKfaLrT14Z?usp=sharing)--->
 - [VOD Class]() 
 
 5. Catch the Mark 
-- [Images and code templates for "Catch The Mark"]<!---(https://drive.google.com/drive/folders/1UIrJlNHg7WeOuo7Dl3YHCKDUxh6A_30L?usp=sharing)--->
-- [Rules]<!---(https://drive.google.com/file/d/1VDtNTF2gN19CMVvH-_YyQgBOsMOrjCbN/view?usp=sharing)--->
+- [Images and code templates for "Catch The Mark"]()
+<!---(https://drive.google.com/drive/folders/1UIrJlNHg7WeOuo7Dl3YHCKDUxh6A_30L?usp=sharing)--->
+- [Rules]()
+<!---(https://drive.google.com/file/d/1VDtNTF2gN19CMVvH-_YyQgBOsMOrjCbN/view?usp=sharing)--->
