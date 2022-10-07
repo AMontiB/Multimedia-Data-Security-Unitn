@@ -10,6 +10,7 @@ mail: *andrea.montibeller[at]unitn.it*
 
 - [Check the video ([at]unitn Only)](https://drive.google.com/file/d/1ADs9nbkmzwbzFiUh772tiVFS80jpc-a-/view?usp=sharing)
 - [Download virtual env and additional material ([at]unitn Only](https://drive.google.com/file/d/1ZfJGecDzrW_LfjzxB-guGl8Q6BH8vvSj/view?usp=sharing)
+- [Colab w/ Virtual Env](https://colab.research.google.com/drive/1YhUiH3cNRZcGLM9ZYHpoA1iUCe0SfMmw?usp=sharing)
 
 ## LABS:
 
