@@ -26,10 +26,10 @@ mail: *andrea.montibeller[at]unitn.it*
 - [VOD Class ([at]unitn Only)](https://drive.google.com/file/d/11UrowVwREz_bJhoPvkHb_DVY7pu47IBy/view?usp=sharing) 
 
 
-3. Spread Spectrum (coming soon) 
+3. Spread Spectrum 
 - [Slides ([at]unitn Only)](https://docs.google.com/presentation/d/1r-w3e0BdvOVcHggXO84Q6V_ESbuZUeJVV-Uphx4BXCo/edit#slide=id.g1397761b547_0_241) 
 - [Spread Spectrum Colab](https://drive.google.com/file/d/1d8yDoisy2gw7WslN2MOf26A1w78Fld4U/view?usp=sharing) 
-- [VOD Class]() 
+- [VOD Class](https://drive.google.com/file/d/1i3xKS9VUNhzXAI6d7Whj_eqsiT9QnUzt/view?usp=sharing) 
 <!---[YouTube Video Resume]()--->
 
 4. Receptive Operative Characteristic (ROC) Curve
