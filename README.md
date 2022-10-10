@@ -36,7 +36,7 @@ The version of python HAS TO BE 3.8.x
 <!---[YouTube Video Resume]()--->
 
 4. Receptive Operative Characteristic (ROC) Curve
-- [ROC Colab](https://colab.research.google.com/drive/1r75Mg56ePs1bZpZAMVNQztDKfaLrT14Z?usp=sharing)
+- [ROC Colab](https://drive.google.com/file/d/1SyqEmlz0Fe2CWN_BS2H1SRuIG3tKYh4D/view?usp=sharing)
 - [VOD Class]() 
 
 5. Catch the Mark 
