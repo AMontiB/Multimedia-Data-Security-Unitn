@@ -42,3 +42,8 @@ The version of python HAS TO BE 3.8.x
 5. Catch the Mark 
 - [Images and code templates for "Catch The Mark"](https://drive.google.com/drive/folders/1UIrJlNHg7WeOuo7Dl3YHCKDUxh6A_30L?usp=sharing)
 - [Rules](https://drive.google.com/file/d/1SyqEmlz0Fe2CWN_BS2H1SRuIG3tKYh4D/view?usp=sharing)
+
+6. Projects, PRNU and Noiseprint
+- [Slides + Projects](https://docs.google.com/presentation/d/14b3_fGzz42e-3JEEETHd--ZnVauVfms1xugkS6uHKx0/edit?usp=sharing)
+- [Colab PRNU](https://colab.research.google.com/drive/1ASAYUA6-SjrQ8M3aCWJ1nRWyPeCC2iSM?usp=sharing)
+- [Colab Noiseprint](https://colab.research.google.com/drive/1_yKO94ENd4Cbsxu2FO8eTI5UjnQ6Su4j?usp=sharing)
