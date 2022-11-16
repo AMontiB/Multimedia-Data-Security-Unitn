@@ -47,3 +47,7 @@ The version of python HAS TO BE 3.8.x
 - [Slides + Projects](https://docs.google.com/presentation/d/14b3_fGzz42e-3JEEETHd--ZnVauVfms1xugkS6uHKx0/edit?usp=sharing)
 - [Colab PRNU](https://colab.research.google.com/drive/1ASAYUA6-SjrQ8M3aCWJ1nRWyPeCC2iSM?usp=sharing)
 - [Colab Noiseprint](https://colab.research.google.com/drive/1_yKO94ENd4Cbsxu2FO8eTI5UjnQ6Su4j?usp=sharing)
+
+7. Video and Image Inpainting Localization
+- [Slides](https://docs.google.com/presentation/d/1SjfpPvoLVlBY_DjgXyzEX0Nx8MHvExIbIP02y7cjTw0/edit?usp=share_link)
+- [Colab](https://colab.research.google.com/drive/16LZNdmE1jwQmSt5zk0hciq1Yl-rpihiZ?usp=share_link)
