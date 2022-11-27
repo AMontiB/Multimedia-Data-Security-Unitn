@@ -11,7 +11,7 @@ mail: *andrea.montibeller[at]unitn.it*
 The version of python HAS TO BE 3.8.x
 
 - [Check the video ([at]unitn Only)](https://drive.google.com/file/d/1ADs9nbkmzwbzFiUh772tiVFS80jpc-a-/view?usp=sharing), the version of python has to be 3.8.x not 3.7.x
-- [Download virtual env and additional material ([at]unitn Only)](https://drive.google.com/file/d/1gA_alYBwSIep2Lho7JxR-_ml6fD7LCDE/view?usp=sharing)
+- [Download virtual env and additional material](https://drive.google.com/file/d/1vs1Bj3E_Ov5IefZ0cawJBp6btM8IXNO8/view?usp=share_link)
 - [Colab w/ Virtual Env](https://colab.research.google.com/drive/1YhUiH3cNRZcGLM9ZYHpoA1iUCe0SfMmw?usp=sharing)
 
 ## LABS:
