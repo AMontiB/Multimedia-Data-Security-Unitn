@@ -53,5 +53,5 @@ The version of python HAS TO BE 3.8.x
 - [Colab](https://colab.research.google.com/drive/16LZNdmE1jwQmSt5zk0hciq1Yl-rpihiZ?usp=share_link)
 
 8. Deep Fakes, Human Visual System and AI-based detector limitations
-- [Slides]() #(https://docs.google.com/presentation/d/13IMLrW3gvrUVmEsrPzHwAQRvJXGvcwzlFIvLhcuYoCo/edit?usp=sharing)
-- [Colab]() #(https://colab.research.google.com/drive/1PfKiTPuTbSlT_KCq7SwOQuIARH5Z9y1l?usp=sharing)
+- [Slides]() <!---(https://docs.google.com/presentation/d/13IMLrW3gvrUVmEsrPzHwAQRvJXGvcwzlFIvLhcuYoCo/edit?usp=sharing)-->
+- [Colab]() <!---(https://colab.research.google.com/drive/1PfKiTPuTbSlT_KCq7SwOQuIARH5Z9y1l?usp=sharing)-->
