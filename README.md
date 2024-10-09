@@ -13,7 +13,7 @@ mail: *andrea.montibeller[at]unitn.it*
 
 1. Virtual-Env SetUP and Challenge Rules
 - [CODE and Exercises Solutions](https://drive.google.com/file/d/1fhomZfQuDNrvoG4sbKu6dqGyOw7vZSuB/view?usp=sharing) 
-- [Class Video](https://youtu.be/AbMaN5joBBk) 
+- [Class Video](https://youtu.be/AbMaN5joBBk)  (sorry, in this first video I am covering part of the python notebook with my cam. In anycase, all the info you need are also written in the notebook.)
 <!---[YouTube Video Resume]()--->
 
 2. Image Processing and Domain Transformation
