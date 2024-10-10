@@ -23,6 +23,6 @@ mail: *andrea.montibeller[at]unitn.it*
 
 3. LSB Watermarking, Spread Spectrum Watermarking and Receiver operating characteristic (ROC) Curve
 - [CODE and Exercises Solutions](https://drive.google.com/file/d/1OG3LBqgRz7kSBdJSLu3C4JYWi7IjQ0WC/view?usp=sharing) 
-- [Class Video]() 
+- [Class Video](https://youtu.be/kP1b-V-WVF8) 
 <!---[YouTube Video Resume]()--->
 
