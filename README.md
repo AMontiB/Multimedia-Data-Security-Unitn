@@ -26,3 +26,6 @@ mail: *andrea.montibeller[at]unitn.it*
 - [Class Video](https://youtu.be/kP1b-V-WVF8) 
 <!---[YouTube Video Resume]()--->
 
+4. Exercise Solutions Video
+- [Class Video](https://youtu.be/XCkzV_0XYhg)
+
