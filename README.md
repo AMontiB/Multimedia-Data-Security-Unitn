@@ -29,3 +29,11 @@ mail: *andrea.montibeller[at]unitn.it*
 4. Exercise Solutions Video
 - [Class Video](https://youtu.be/XCkzV_0XYhg)
 
+3.Photo Response non-Uniformity
+- [CODE and Exercises Solutions](https://drive.google.com/file/d/1R2aevb_kM-3IXwQM0I_s4sOMC68b26uC/view?usp=sharing) 
+- [Class Video](https://youtu.be/3DAK9K2owCg)
+
+5. Tampering Detection
+- [CODE and Exercises Solutions](https://drive.google.com/file/d/1i8eiuMnaJY3coKKkZFTQN5ot2dhPaivD/view?usp=sharing) 
+- [Class Video]()
+
